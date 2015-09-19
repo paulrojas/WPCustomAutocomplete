@@ -1,3 +1,4 @@
+<?php
 /*
 Plugin Name: WP Custom Autocomplete
 Plugin URI: https://github.com/paulrojas/WPCustomAutocomplete
@@ -14,7 +15,7 @@ the Free Software Foundation; either version 2 of the License, or
 (at your option) any later version.
 */
 
-<?php
+
 function fancybox_wp_setup(){
     wp_enqueue_style("jquery.customautocomplete", WP_PLUGIN_URL."/css/aristo/jquery-ui-aristo.min.css", false, "");
     wp_enqueue_script("jquery");

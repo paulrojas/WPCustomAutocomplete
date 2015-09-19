@@ -1,0 +1,1 @@
+This is a plugin created to met the evaluation criteria at WalletHub
